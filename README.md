@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 Executive Summary & Analytical Mindset
+##  Executive Summary & Analytical Mindset
 
 This repository is a curated showcase of my highest-fidelity threat triage cases, detection engineering projects, and enterprise lab architecture. 
 
@@ -21,7 +21,7 @@ My analytical approach is rooted in my professional background in Perpetual Inve
 
 ---
 
-## 🏗️ Enterprise SOC Architecture (Home Lab)
+##  Enterprise SOC Architecture (Home Lab)
 
 Before analyzing alerts, I built the infrastructure to generate them. I maintain a distributed SIEM environment to simulate attacks, capture host-level telemetry, and validate custom detection rules.
 
@@ -33,7 +33,7 @@ Before analyzing alerts, I built the infrastructure to generate them. I maintain
 
 ---
 
-## 🔍 Featured Investigations (Threat Triage)
+##  Featured Investigations (Threat Triage)
 
 The following write-ups demonstrate my ability to ingest raw logs, map behaviour to the MITRE ATT&CK framework, and formulate actionable incident response recommendations.
 
@@ -63,7 +63,7 @@ The following write-ups demonstrate my ability to ingest raw logs, map behaviour
 
 ---
 
-## ⚙️ Detection Engineering & Active Defence
+##  Detection Engineering & Active Defence
 
 Moving beyond reactive analysis, I develop custom rules and proactive defense mechanisms to identify specific adversarial behaviours.
 
@@ -72,6 +72,17 @@ Moving beyond reactive analysis, I develop custom rules and proactive defense me
 * 🍯 **[Active Defence: Honeytokens & Cyber Deception Playbook](URL_A_TU_MD_DE_HONEYTOKENS)**
 
 ---
+
+## 📧 Phishing Incident Response & Artefact Triage
+[View the Phishing Incident Response Lab ↗](https://github.com/magda-uk/phishing-incident-response-lab)
+
+A dedicated laboratory environment for analysing phishing campaigns, malicious artefacts, and end-to-end incident response workflows. This project demonstrates specialised Blue Team skills focused on email security and safe triage methodologies.
+
+**Featured Investigations:**
+* **Suspicious Invoice (Social Engineering):** Safe static analysis and triage of a malicious PDF artefact impersonating a corporate entity (Santander / inFakt.pl), identifying fraud indicators and expected sandbox behaviours.
+* **Email Header & Spoofing Analysis:** Deep-dive investigation of routing hops, SPF/DKIM/DMARC alignment, and sender metadata to uncover the attacker's origin infrastructure.
+
+>*Key Skills: Artefact Triage, Email Security, IoC Extraction, Phishing Analysis, Safe Evidence Handling.*
 
 ## 📬 Connect with me
 
