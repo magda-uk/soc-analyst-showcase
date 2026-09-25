@@ -17,7 +17,7 @@ This repository is a curated showcase of my highest-fidelity threat triage cases
 
 My analytical approach is rooted in my professional background in Perpetual Inventory within high-volume inbound logistics. Managing continuous stock reconciliation and investigating critical supply chain discrepancies requires a meticulous, evidence-based mindset. I apply this exact methodology to cybersecurity: **tracing anomalous behaviour across multiple systems, separating noise from true positive alerts, and reconstructing attack timelines from raw telemetry.**
 
-*(Note: For a complete view of my daily hands-on labs, foundational training, and operational playbooks, please visit my [Continuous Learning Repository](https://github.com/magda-uk/soc-analyst-portfolio/tree/main).)*
+*(Note: For a complete view of my daily hands-on labs, foundational training, and operational playbooks, please visit my **[Continuous Learning Repository](https://github.com/magda-uk/soc-analyst-portfolio/tree/main)**.)*
 
 ---
 
