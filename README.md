@@ -75,8 +75,8 @@ The following write-ups demonstrate my ability to ingest raw logs, map behaviour
 Moving beyond reactive analysis, I develop custom rules and proactive defence mechanisms to identify specific adversarial behaviours.
 
 * 📄 **[Sigma Rule: Malicious Registry Modification for Persistence](https://github.com/magda-uk/soc-analyst-portfolio/blob/main/1.detections/3.rules/sigma/registry-modification-persistence-tracking.yml)**
-* 📄 **[KQL Query: Suspicious PowerShell Encoded Command Execution](https://github.com/magda-uk/soc-analyst-portfolio/blob/main/1.detections/3.rules/sigma/suspicious-powershell-execution.ymlURL)**
-* 🍯 **[Active Defence: Honeytokens & Cyber Deception Playbook](https://github.com/magda-uk/soc-analyst-portfolio/blob/main/4.hunting/active-defence-honeytokens/active-defence-honeytokens.md_A_TU_MD_DE_HONEYTOKENS)**
+* 📄 **[KQL Query: Suspicious PowerShell Encoded Command Execution](https://github.com/magda-uk/soc-analyst-portfolio/blob/main/1.detections/3.rules/sigma/suspicious-powershell-execution.yml)**
+* 🍯 **[Active Defence: Honeytokens & Cyber Deception Playbook](https://github.com/magda-uk/soc-analyst-portfolio/blob/main/4.hunting/active-defence-honeytokens/active-defence-honeytokens.md)**
 
 ---
 
