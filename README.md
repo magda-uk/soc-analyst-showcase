@@ -83,23 +83,13 @@ Moving beyond reactive analysis, I develop custom rules and proactive defence me
 
 
 ## 🔺 Phishing Incident Response & Artefact Triage
-A dedicated laboratory environment focused on the end-to-end triage of phishing campaigns and the safe handling of malicious artefacts. This project demonstrates core Blue Team capabilities in email security, threat actor infrastructure analysis, and Social Engineering investigation.
+A dedicated laboratory environment focused on the end-to-end triage of phishing campaigns and the safe handling of malicious attachments. 
 
-* 🔗  **[View the Phishing Incident Response Lab ](https://github.com/magda-uk/phishing-incident-response-lab)**
+This project demonstrates core Blue Team capabilities in email routing analysis (SPF/DKIM/DMARC) and the static analysis of malicious PDF artefacts (T1566) to extract Indicators of Compromise (IoCs).
 
-### 1. Suspicious Invoice: Artefact Triage & Social Engineering
-* **Objective**: Conduct safe static analysis of a malicious PDF artefact impersonating a legitimate financial entity (Santander / inFakt.pl).
+* 🔗  **[Explore the Phishing Incident Response Lab](https://github.com/magda-uk/phishing-incident-response-lab/blob/main/README.md)**
 
-* **Techniques**: T1566.001 (Spearphishing Attachment), T1036 (Masquerading).
-
-* **Skills Applied**: Safe evidence handling, static analysis, extraction of Indicators of Compromise (IoCs), and identifying expected sandbox detonation behaviours.
-
-### 2. Email Header Analysis & Spoofing Detection
-* **Objective**: Perform a deep-dive investigation of email routing metadata to verify sender authenticity and uncover the attacker's true origin infrastructure.
-
-* **Techniques**: T1566.002 (Spearphishing Link), T1586 (Compromise Accounts).
-
-* **Skills Applied**: Analysing SMTP routing hops, validating SPF/DKIM/DMARC alignment, and extracting malicious sender IP/Domain metadata for threat intelligence enrichment.
+---
 
 ## 🔺 Connect with me
 
