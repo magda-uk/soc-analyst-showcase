@@ -1,10 +1,5 @@
 
-
-# ◈  Magda Dominguez    ◈
-
-[![Cybersecurity, SOC & AppSec Portfolio](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00AEEF&center=true&vCenter=true&width=480&height=42&lines=Cybersecurity%2C+SOC+%26+AppSec+Portfolio)](https://github.com/magda-uk)
-
-
+[![Magda Dominguez Portfolio](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00AEEF&vCenter=true&width=680&height=40&lines=Magda+Dominguez+%7C+Cybersecurity%2C+SOC+%26+AppSec)](https://www.linkedin.com/in/magda-d-infosec)
 
 
 
