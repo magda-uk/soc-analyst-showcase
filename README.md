@@ -1,5 +1,13 @@
-# ◈ Magda Dominguez ◈ 
-### Cybersecurity, SOC & AppSec Portfolio
+
+# <p>
+  <img src="https://img.shields.io/badge/%E2%96%B2-FF0055?style=for-the-badge" height="42"><img src="https://img.shields.io/badge/%E2%80%83%E2%80%83Magda_Dominguez%E2%80%83%E2%80%83-00AEEF?style=for-the-badge" width="430" height="42">
+</p>
+
+[![Cybersecurity, SOC & AppSec Portfolio](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00AEEF&background=000000&center=true&vCenter=true&width=480&height=42&lines=Cybersecurity%2C+SOC+%26+AppSec+Portfolio)](https://github.com/magda-uk)
+
+
+
+
 
 [![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]()
 [![Wazuh SIEM](https://img.shields.io/badge/Wazuh-00AEEF?style=for-the-badge&logo=wazuh&logoColor=white)]()
@@ -93,7 +101,7 @@ This project demonstrates core Blue Team capabilities in email routing analysis 
 
 * 🔗  **[Explore the Phishing Incident Response Lab](https://github.com/magda-uk/phishing-incident-response-lab/blob/main/README.md)**
 
----
+
 
 ---
 
@@ -108,7 +116,7 @@ Beyond SIEM alert triage, I leverage my Software & Data Engineering background t
 * 🔗 **[Explore the Security Audit & Threat Model Repo](https://github.com/magda-uk/shelfie-security-audit)** | 🛠️ **[View Technical Remediation Playbook](https://github.com/magda-uk/shelfie-security-audit/blob/main/docs/remediation-playbook.md)**
 
 ## 🔺 Connect with me
+[![Magda Dominguez LinkedIn](https://img.shields.io/badge/Magda_Dominguez-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/magda-d-infosec)
 
 I am actively seeking a Cyber Security / SOC / Security Design role where I can bring my structured troubleshooting, log analysis, and secure architecture skills to a dedicated security team.
 
-* **LinkedIn:** [linkedin.com/in/magda-d-infosec](https://www.linkedin.com/in/magda-d-infosec)
