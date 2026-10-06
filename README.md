@@ -1,7 +1,6 @@
 
-# <p>
-  <img src="https://img.shields.io/badge/%E2%80%83%E2%80%83Magda_Dominguez%E2%80%83%E2%80%83-00AEEF?style=for-the-badge" width="480" height="42">
-</p>
+
+# ◈  Magda Dominguez    ◈
 
 [![Cybersecurity, SOC & AppSec Portfolio](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00AEEF&background=000000&center=true&vCenter=true&width=480&height=42&lines=Cybersecurity%2C+SOC+%26+AppSec+Portfolio)](https://github.com/magda-uk)
 
@@ -77,8 +76,7 @@ The following write-ups demonstrate my ability to ingest raw logs, map behaviour
 * **Objective:** Simulate a localized ransomware infection targeting critical logistics data (Perpetual Inventory & Good Faith Receiving) and detect the encryption process in real-time.
 * **Techniques:** T1486 (Data Encrypted for Impact).
 * **Skills Applied:** Wazuh File Integrity Monitoring (Syscheck) configuration, custom Python payload execution, and rapid alert triage of mass file modifications.
-
- * 🔗 **[View Ransomware & FIM Analysis](https://github.com/magda-uk/soc-analyst-portfolio/blob/main/5.projects/wazuh-ransomware-fim/README.md)**
+* 🔗 **[View Ransomware & FIM Analysis](https://github.com/magda-uk/soc-analyst-portfolio/blob/main/5.projects/wazuh-ransomware-fim/README.md)**
 
 ---
 
@@ -115,6 +113,7 @@ Beyond SIEM alert triage, I leverage my Software & Data Engineering background t
 * **Engineering & Defense-in-Depth:** Authored a Low-Level Design (LLD) Remediation Playbook implementing contextual JWT decorators (`@token_required`), `Flask-Limiter` rate throttling, `Pydantic` + `NFKC` input validation, `Flask-Talisman` (HTTPS/HSTS), and MySQL Principle of Least Privilege (`DML-only` permissions).
 * 🔗 **[Explore the Security Audit & Threat Model Repo](https://github.com/magda-uk/shelfie-security-audit)** | 🛠️ **[View Technical Remediation Playbook](https://github.com/magda-uk/shelfie-security-audit/blob/main/docs/remediation-playbook.md)**
 
+---
 ## 🔺 Connect with me
 [![Magda Dominguez LinkedIn](https://img.shields.io/badge/Magda_Dominguez-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/magda-d-infosec)
 
