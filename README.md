@@ -1,13 +1,17 @@
-# 🛡️ Magda Dominguez | Blue Team & SOC Analyst Portfolio (Showcase)
+# ◈ Magda Dominguez ◈ 
+### Cybersecurity, SOC & AppSec Portfolio
 
 [![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]()
 [![Wazuh SIEM](https://img.shields.io/badge/Wazuh-00AEEF?style=for-the-badge&logo=wazuh&logoColor=white)]()
 [![Sysmon](https://img.shields.io/badge/Sysmon_Telemetry-4B0082?style=for-the-badge&logo=windows&logoColor=white)]()
 [![KQL](https://img.shields.io/badge/KQL_Hunting-00509E?style=for-the-badge&logo=azuredataexplorer&logoColor=white)]()
 [![Microsoft Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
+[![OWASP AppSec](https://img.shields.io/badge/OWASP_AppSec-000000?style=for-the-badge&logo=owasp&logoColor=white)]()
+[![Python Security](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 
-*Target Role:* SOC Analyst (L1) / Junior Blue Team Analyst  
-*Location:* Bristol, UK
+**Target Role:** Cyber Security Analyst | SOC / Blue Team | Security Design & AppSec  
+**Certifications:** BCS CISMP | Microsoft SC-900  
+**Location:** Bristol, UK (Hybrid / Remote)
 
 ---
 
@@ -91,8 +95,20 @@ This project demonstrates core Blue Team capabilities in email routing analysis 
 
 ---
 
+---
+
+## 🔺 Application Security, Threat Modelling & Secure Design
+
+Beyond SIEM alert triage, I leverage my Software & Data Engineering background to perform architectural threat modelling, API penetration testing, and code-level remediation.
+
+### Shelfie REST API: Security Audit, STRIDE Threat Model & Remediation
+* **Objective:** Conduct an end-to-end security assessment of a four-layer Python (Flask) and MySQL REST API, mapping architectural flaws to **STRIDE**, **OWASP API Security Top 10**, and **MITRE ATT&CK**.
+* **Key Findings & Exploitation:** Validated Broken Object Level Authorisation / IDOR (`CWE-639`), Stored XSS (`CWE-79`), Authentication Brute-Force (`CWE-307`), and Werkzeug Debugger PIN exposure (`CWE-200`) using **Burp Suite** and **OWASP ZAP**.
+* **Engineering & Defense-in-Depth:** Authored a Low-Level Design (LLD) Remediation Playbook implementing contextual JWT decorators (`@token_required`), `Flask-Limiter` rate throttling, `Pydantic` + `NFKC` input validation, `Flask-Talisman` (HTTPS/HSTS), and MySQL Principle of Least Privilege (`DML-only` permissions).
+* 🔗 **[Explore the Security Audit & Threat Model Repo](https://github.com/magda-uk/shelfie-security-audit)** | 🛠️ **[View Technical Remediation Playbook](https://github.com/magda-uk/shelfie-security-audit/blob/main/docs/remediation-playbook.md)**
+
 ## 🔺 Connect with me
 
-I am actively seeking an L1 SOC Analyst position where I can bring my structured troubleshooting and log analysis skills to a dedicated security team.
+I am actively seeking a Cyber Security / SOC / Security Design role where I can bring my structured troubleshooting, log analysis, and secure architecture skills to a dedicated security team.
 
 * **LinkedIn:** [linkedin.com/in/magda-d-infosec](https://www.linkedin.com/in/magda-d-infosec)
