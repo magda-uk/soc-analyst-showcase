@@ -1,6 +1,6 @@
 
 # <p>
-  <img src="https://img.shields.io/badge/%E2%96%B2-FF0055?style=for-the-badge" height="42"><img src="https://img.shields.io/badge/%E2%80%83%E2%80%83Magda_Dominguez%E2%80%83%E2%80%83-00AEEF?style=for-the-badge" width="430" height="42">
+  <img src="https://img.shields.io/badge/%E2%80%83%E2%80%83Magda_Dominguez%E2%80%83%E2%80%83-00AEEF?style=for-the-badge" width="480" height="42">
 </p>
 
 [![Cybersecurity, SOC & AppSec Portfolio](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00AEEF&background=000000&center=true&vCenter=true&width=480&height=42&lines=Cybersecurity%2C+SOC+%26+AppSec+Portfolio)](https://github.com/magda-uk)
