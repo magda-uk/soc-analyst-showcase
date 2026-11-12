@@ -86,9 +86,9 @@ My investigations rely on a hybrid telemetry architecture. While many of my deep
 
 Moving beyond reactive analysis, I develop custom rules and proactive defence mechanisms (mapped to MITRE D3FEND) to identify specific adversarial behaviours before impact occurs.
 
-- 🍯 **[Active Defence: Honeytokens & Cyber Deception (D3-DO)](https://github.com/magda-uk/mitre-attack-mapping/blob/main/02-Threat-Hunting-Playbooks/Honeytokens-Active-Defence.md)**
+- 🍯 **[Active Defence: Honeytokens & Cyber Deception (D3-DO)](https://github.com/magda-uk/mitre-attack-mapping/blob/main/02-Threat-Hunting-Playbooks/active-defence-honeytokens/README.md)**
 - 📄 **[Sigma Rule: Malicious Registry Modification for Persistence](https://github.com/magda-uk/soc-analyst-portfolio/blob/main/1.detections/3.rules/sigma/registry-modification-persistence-tracking.yml)**
-- 📄 **[KQL Query: Suspicious PowerShell Encoded Command Execution](https://github.com/magda-uk/mitre-attack-mapping/blob/main/02-Threat-Hunting-Playbooks/PowerShell-Encoded-Commands-Hunt.md)**
+- 📄 **[KQL Query: Suspicious PowerShell Encoded Command Execution](https://github.com/magda-uk/mitre-attack-mapping/blob/main/02-Threat-Hunting-Playbooks/powershell-encoded/README.md)**
 
 ---
 
